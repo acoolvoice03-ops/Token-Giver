@@ -1,3 +1,4 @@
+import Button from "@/components/Button";
 import type { Metadata } from 'next'
 import React from 'react'
 import '../_assets/globals.css'
